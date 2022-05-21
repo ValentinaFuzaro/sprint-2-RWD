@@ -3,13 +3,14 @@
 }
 
 .paragrafo{
-    margin-left: 30px;
+    margin-left: 10px;
     margin-bottom: 25px;
     margin-top: 20px;
+    text-align: center;
 }
 
 .paragrafo1{
-    margin-left: 30px;
+    margin-left: 10px;
     margin-bottom: 20px;
 }
 
@@ -29,6 +30,33 @@
     margin-bottom: 10px;
 }
 
+.paragrafo5{
+    margin-left: 20px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.paragrafo6{
+    margin-left: 15px;
+}
+
+.paragrafo7{
+    margin-top: 15px;
+    margin-left: 4px;
+    margin-bottom: 10px;
+}
+
+.final{
+    margin-left: 10px;
+    margin-bottom: 25px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.voltar{
+    text-align: center;
+}
+
 .links{
     margin-left: 50px;
 }
@@ -43,10 +71,28 @@
     margin-left: 1%;
     margin-right: 1%;
     border-style: solid;
-    border-color: black;
+    border-color: #ffecbb;
     border-width: 1.5px;
-    background-color: #ffecbb;
+    box-shadow: 0 0 0.5em black;
+    background-color: #fdeecc;
 }
+
+#infoBox1{
+    width: 98%;
+    height: 43vh;
+    justify-content: center;
+    border-radius: 15px;
+    margin-top: 2.5%;
+    margin-bottom: 1%;
+    margin-left: 1%;
+    margin-right: 1%;
+    border-style: solid;
+    border-color: #ffecbb;
+    border-width: 1.5px;
+    box-shadow: 0 0 0.5em black;
+    background-color: #fdeecc;
+}
+
 
 .topo{
     height: 60px;
